@@ -86,16 +86,15 @@ If you find this project useful for your research, please use the following BibT
 
 # Retail50K Dataset
 
-If you want to reproduce the results in the paper for benchmark evaluation and training, you will need to setup dataset.
-The original images and annotations are all stored in the csv files. You can easily convert them into different formats  based on your requirements. 
-For example, retail50k2coco.py. 
+If you want to reproduce the results in the paper for benchmark evaluation and training, you will need to setup dataset. The original images and annotations are all stored in the csv files. You can easily convert them into different formats based on your requirements.  For example, retail50k2coco.py. Be noted that due to the size limitation in github, the training data is split into two csv files. You should use the training data from both files. 
 
 ## Training data
 
   ~~~
   ${CenterNet_ROOT}
   |-- retail50k
-  `-- |-- retail50k_train.csv
+  `-- |-- retail50k_train1.csv
+  `-- |-- retail50k_train2.csv
   ~~~
 
 ## Testing data
