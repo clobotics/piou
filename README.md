@@ -2,7 +2,7 @@
 Orientated Object Detection; IoU Loss
 ![](readme/idea.png)
 > [**PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**](https://www.researchgate.net/publication/343054040_PIoU_Loss_Towards_Accurate_Oriented_Object_Detection_in_Complex_Environments),            
-> Zhiming Chen, Kean Chen, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang,
+> Zhiming Chen, Kean Chen, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang;henb&uuml;hl,
 > *arXiv technical report ([arXiv:2007.09584](https://arxiv.org/abs/2007.09584))*         
 
 ## Abstract 
